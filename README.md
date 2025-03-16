@@ -3,7 +3,7 @@
 ## 📊 Overview
 This **Hospital Analysis Dashboard** provides insights into hospital operations, including bed occupancy, doctor feedback, patient diagnosis, and financial metrics such as billing and health insurance amounts. The dashboard is built for data-driven decision-making in healthcare management.
 
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/3da7e74c-c0f1-4c7b-b085-f6864d5f6783" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/3da7e74c-c0f1-4c7b-b085-f6864d5f6783" />
 
 
 ---
@@ -48,5 +48,3 @@ The dashboard is based on real or synthetic **healthcare datasets** containing:
 - Adding predictive analytics for patient readmission.
 - Integrating AI-driven anomaly detection in billing.
 - Enhancing the dashboard UI with more interactive features.
-
----# HealthCare_Data_Analytics_Project
