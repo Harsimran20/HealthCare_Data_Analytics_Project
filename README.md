@@ -1,4 +1,4 @@
-# Hospital Analysis Dashboard
+# HealthCare Analysis Dashboard
 
 ## 📊 Overview
 This **Hospital Analysis Dashboard** provides insights into hospital operations, including bed occupancy, doctor feedback, patient diagnosis, and financial metrics such as billing and health insurance amounts. The dashboard is built for data-driven decision-making in healthcare management.
